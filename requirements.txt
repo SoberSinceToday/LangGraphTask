@@ -1,0 +1,9 @@
+langchain
+langchain-core
+langchain-tavily
+langchain-gigachat
+langgraph
+pydantic
+python-dotenv
+langgraph-cli
+langgraph-cli[inmem]
